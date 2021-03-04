@@ -25,5 +25,10 @@ public class AppTest
 		System.out.println("aakash");
 		System.out.println("aakash sharma");
 	}
+	@Test 
+	public void menthod3()
+	{
+		System.out.println("git fit");
+	}
 	
 }
