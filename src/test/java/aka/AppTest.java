@@ -18,13 +18,12 @@ public class AppTest
 		System.out.println("lalal");
 	}
 	
-	@Test(enabled=false)
-	public void method2()
+	@Test(enabled=false)void method2()
 	
 	{
 		
 		System.out.println("aakash");
-		
+		System.out.println("aakash sharma");
 	}
 	
 }
